@@ -1,0 +1,11 @@
+{
+  "name": "web-audio-resources",
+  "version": "1.0.0",
+  "description": "A repository of helpful Web Audio related links and other online resources/inspiration.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonah Bitautas <jonahvsweb@gmail.com> (http://jonahvsweb.com/)",
+  "license": "MIT"
+}
