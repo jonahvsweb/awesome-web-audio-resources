@@ -1,3 +1,5 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 # Web Audio Resources :notes:
 
 A personal curated list of Web Audio related resources, tutorials, tools and more. Everything on this list has or is helping me on my way to learning Web Audio. 
@@ -45,7 +47,7 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 
 ## Inspiration 
 
-- Coming soon... 
+- [http://whitevinyldesign.com/](http://whitevinyldesign.com/) - The audio/visual work of Luke Twyman aka Whitevinyl has very creative projects that utilize audio in the web quite a bit. 
 
 ## License 
 
