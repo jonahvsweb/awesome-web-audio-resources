@@ -1,8 +1,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Web Audio Resources :notes:
+# Awesome Web Audio Resources :notes:
 
-A personal curated list of Web Audio related resources, tutorials, tools and more. Everything on this list has or is helping me on my way to learning Web Audio. 
+A personal curated list of Web Audio related resources, tutorials, tools and more. Everything on this list has or is helping me on my way to learning Web Audio. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 The Web Audio API provides a powerful and versatile system for controlling audio on the Web, allowing developers to choose audio sources, add effects to audio, create audio visualizations, apply spatial effects (such as panning)  and much more.
 
