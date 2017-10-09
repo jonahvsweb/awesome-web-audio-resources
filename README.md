@@ -26,7 +26,7 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 
 ## Books 
 
-- [Web Audio API: Advanced Sound for Games and Interactive Apps](https://www.amazon.com/gp/product/1449332684/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449332684&linkCode=as2&tag=jonahvsweb-20&linkId=bac8d2199c36d9d1bc2cf5d1b1facb87)
+- [Web Audio API: Advanced Sound for Games and Interactive Apps](https://www.amazon.com/gp/product/1449332684/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449332684&linkCode=as2&tag=jonahvsweb-20&linkId=bac8d2199c36d9d1bc2cf5d1b1facb87) - Good beginner book and quick read of the basics with examples. 
 
 ## Education
 
@@ -49,4 +49,4 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 
 ## License 
 
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](LICENSE.txt) for more information.
