@@ -47,7 +47,7 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 
 ## Inspiration 
 
-- [http://whitevinyldesign.com/](http://whitevinyldesign.com/) - The audio/visual work of Luke Twyman aka Whitevinyl has very creative projects that utilize audio in the web quite a bit. 
+- [WhiteVinyl](http://whitevinyldesign.com/) - The audio/visual work of Luke Twyman aka Whitevinyl has very creative projects that utilize audio in the web quite a bit. 
 
 ## License 
 
