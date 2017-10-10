@@ -24,6 +24,7 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 ## Resources 
 
 - [Mozilla Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - The de facto online resource for the Web Audio API by Mozilla. 
+- [W3C Web MIDI API](https://webaudio.github.io/web-midi-api/#getting-access-to-the-midi-system) - Official HTML5 compliant spec written and updated by the W3C. 
 - [Web Audio Weekly](http://www.webaudioweekly.com/) - Weekly newsletter with topics surrounding anything related to audio creation on the web.
 
 ## Books 
