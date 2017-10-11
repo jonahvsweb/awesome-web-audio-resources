@@ -50,6 +50,7 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 
 - [WhiteVinyl](http://whitevinyldesign.com/) - The audio/visual work of Luke Twyman aka Whitevinyl has very creative projects that utilize audio in the web quite a bit. 
 - [Web Audio Demos](http://webaudiodemos.appspot.com/) - Various different examples of how to use the Web Audio API with some source code linked. 
+- [Web Audio API - Samples](http://webaudioapi.com/samples/) - Nice small set of examples showcasing different examples of the Web Audio API (samples from the [book](https://www.amazon.com/gp/product/1449332684/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449332684&linkCode=as2&tag=jonahvsweb-20&linkId=bac8d2199c36d9d1bc2cf5d1b1facb87)). 
 
 ## License 
 
